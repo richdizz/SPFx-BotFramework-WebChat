@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "37210ae1-c8f3-4d0a-8729-fdfd55d1d03f",
+  "alias": "BotWebChatWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "37210ae1-c8f3-4d0a-8729-fdfd55d1d03f",
+    "group": { "default": "Under Development" },
+    "title": { "default": "BotWebChat" },
+    "description": { "default": "A simple webpart that uses the Bot Framework Web Chat and back channel to communicate with SharePoint." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "BotWebChat"
+    }
+  }]
+}
