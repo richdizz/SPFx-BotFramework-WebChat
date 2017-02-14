@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/botWebChat/BotWebChatWebPart.js",
+      "manifest": "./src/webparts/botWebChat/BotWebChatWebPart.manifest.json",
+      "outputPath": "./dist/bot-web-chat.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "botWebChatStrings": "webparts/botWebChat/loc/{locale}.js"
+  }
+}
