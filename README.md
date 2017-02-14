@@ -3,7 +3,7 @@
 ```bash
 git clone the repo
 npm i
-gulp build
+gulp serve
 ```
 
 This package produces the following:
